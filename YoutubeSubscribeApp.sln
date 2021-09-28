@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeSubscribeApp", "YoutubeSubscribeApp.csproj", "{4FAC7DF9-09E3-4680-ADFB-A7CE7CAFACAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FAC7DF9-09E3-4680-ADFB-A7CE7CAFACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FAC7DF9-09E3-4680-ADFB-A7CE7CAFACAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FAC7DF9-09E3-4680-ADFB-A7CE7CAFACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FAC7DF9-09E3-4680-ADFB-A7CE7CAFACAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ACD4B24-4AE2-4934-BCDE-9F17102E843D}
+	EndGlobalSection
+EndGlobal

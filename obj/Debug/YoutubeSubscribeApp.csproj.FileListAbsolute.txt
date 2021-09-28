@@ -1,0 +1,10 @@
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\bin\Debug\YoutubeSubscribeApp.exe.config
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\bin\Debug\YoutubeSubscribeApp.exe
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\bin\Debug\YoutubeSubscribeApp.pdb
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\obj\Debug\YoutubeSubscribeApp.csproj.AssemblyReference.cache
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\obj\Debug\YoutubeSubscribeApp.csproj.CoreCompileInputs.cache
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\obj\Debug\YoutubeSubscribeApp.exe
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\obj\Debug\YoutubeSubscribeApp.pdb
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\bin\Debug\WebDriver.dll
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\bin\Debug\WebDriver.xml
+C:\PROJECTS\Youtube App\YoutubeSubscribeApp\obj\Debug\YoutubeSubscribeApp.csproj.CopyComplete
